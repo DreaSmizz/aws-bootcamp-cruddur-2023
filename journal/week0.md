@@ -23,9 +23,10 @@ The next task was to create an admin user to avoid using root.  Here is the user
 
 ![Admin User Creation](assets/user%20creation.png)
 
-I am having trouble accessing CloudShell.  I opened a case with Amazon and they have stated there is a 24 hour turn around.  Here is the screenshot of the case open.  If the case is resolved in time I will update the screenshot.
+I am having trouble accessing CloudShell.  I opened a case with Amazon and they have stated there is a 24 hour turn around.  Here is the screenshot of the case open.  If the case is resolved in time I will update the screenshot.  I have attached the screenshot from what happens when I try to access CloudShell.
 
 ![CloudShell Proof](assets/CloudShell%20Proof.png)
+![CloudShell Prompt](assets/CloudShell-Prompt.png)
 
 Generate AWS Credentials Proof
 ![Admin Credential](assets/admin%20user%20creation.png)
@@ -33,6 +34,7 @@ Generate AWS Credentials Proof
 
 Create Billing and Budget Alarm
 ![Budget and Billing Alarm](assets/budget%20creations.png)
+![Billing Alert](/assets/CloudWatch.png)
 
 
 ## Homework Challenges
