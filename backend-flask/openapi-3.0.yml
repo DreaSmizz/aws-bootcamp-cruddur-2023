@@ -164,7 +164,7 @@ paths:
                 items:  
                   $ref: '#/components/schemas/Activity'
 
-components:
+components: 
   schemas:
     Activity:
       type: object
