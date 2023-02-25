@@ -6,7 +6,7 @@ I watched the how to ask for help video and found it very helpful.  I was stuck 
 ## Notifications for Crudder application
 I watched all videos pertaining to backend and front end notifications and was able to get my notifications page to successfully show.  Please see screenshot below.
 
-![Notifications_Feed - Cuddur](assets/Notifications_Feed.png)
+![Notifications_Feed - Cuddur](assets/Notifcations_Feed.png)
 
 ## Run DynamoDB Local Container and ensure it works
 I was able to get DynamoDB working.  Here are screenshots of the image pulling and working as expected.
