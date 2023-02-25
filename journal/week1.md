@@ -27,4 +27,4 @@ Here are the screenshots assciated with Postgres Install.  I was able to get it 
 ## Database Connection setup
 I was able to set up and connection via postgres
 
-![Postgres - Cruddur](assets/Database_Connection.png.png)
+![Postgres - Cruddur](assets/Database_Connection.png)
