@@ -24,3 +24,7 @@ Here are the screenshots assciated with Postgres Install.  I was able to get it 
 ![Postgres - Crudder](assets/PostgresInstall_p2.png)
 ![Postgres - Crudder](assets/PostgresInstall_p3.png)
 
+## Database Connection setup
+I was able to set up and connection via postgres
+
+![Postgres - Crudder](assets/DatabaseConnection.png
