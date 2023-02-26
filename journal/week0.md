@@ -40,7 +40,7 @@ Generate AWS Credentials Proof
 ### Billing and budget alarms
 Create Billing and Budget Alarm
 ![Budget and Billing Alarm](assets/budget%20creations.png)
-![Billing Alert](/assets/CloudWatch.png)
+![Billing Alert](assets/CloudWatch.png)
 
 
 ## Homework Challenges
