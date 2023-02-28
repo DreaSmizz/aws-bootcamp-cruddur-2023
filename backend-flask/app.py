@@ -18,7 +18,6 @@ from services.show_activity import *
 from aws_xray_sdk.core import xray_recorder
 from aws_xray_sdk.ext.flask.middleware import XRayMiddleware
 
-
 # HoneyComb ------------
 from opentelemetry import trace
 from opentelemetry.instrumentation.flask import FlaskInstrumentor
