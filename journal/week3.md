@@ -16,15 +16,15 @@ Custom signin pages were added and tested to ensure accuracy.
 After successfully verifying our user we also showed up in AWS as verified.
 ![cognito-user-pool](assets/verified_in_cognito.png)
 ![cognito-user-pool](assets/verification_code.png)
-![cognito-user-pool](assets/verfication_code_screen.png)
+![cognito-user-pool](assets/verification_code_screen.png)
 
-After successfully performing sign up verification we were able to sign in.
+After successfully performing sign up verification we were able to sign in and show our preferred user name
 ![cognito-user-pool](assets/successful_sign_in.png)
-
+![cognito-user-pool](assets/user_preferred_update.png)
 ## Implement Custom Recovery Page
 We also tested the portion of the site required if someone needed to recover/update their password due to forgetting it.  Here are the screenshots associated with that.
 ![cognito-user-pool](assets/recovery_code_email.png)
-![cognito-user-pool](assets/recover_code.png)
+![cognito-user-pool](assets/recovery_code.png)
 
 ## Verify JWT Tokent Server Side
 
