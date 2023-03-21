@@ -26,5 +26,13 @@ We also tested the portion of the site required if someone needed to recover/upd
 ![cognito-user-pool](assets/recovery_code_email.png)
 ![cognito-user-pool](assets/recovery_code.png)
 
-## Verify JWT Tokent Server Side
+## Verify JWT Token Server Side
+The last step was to implement JWT tokens and implement debugging pieces that allowed us to validate.  We also implemented secret crud that if we were authenticated correctly would show.  Issues were seen when logging out as the secret crud stayed.  We resolved that by implmenting a clear statment.
+
+![jwt-user](assets/requirements_awscognito_update.png)
+![jwt-user](assets/jwt_token_output.png)
+![jwt-user](assets/jwt_docker_backend_error.png)
+![jwt-user](assets/secret_crud.png)
+![jwt-user](assets/remove_token_added.png)
+![jwt-user](assets/crud_removed.png)
 
